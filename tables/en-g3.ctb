@@ -862,8 +862,6 @@ nocross always leave 349-45-1236
 joinword left 249-456-1236-1249
 word left 249-456-1236-1249
 nocross always left 349-456-1236
-#joinword less 249-46-234-1249
-#word less 249-46-234-1249
 joinword life 249-4-123-1249
 word life 249-4-123-1249
 nocross always life 349-4-123
@@ -1721,7 +1719,7 @@ nocross midword nu 1345
 nocross midword oa 45
 nocross midword oe 45
 nocross midword oi 45
-nocross always ong 56-1245
+nocross midendword ong 56-1245
 nocross begmidword origina 349-4-346
 nocross midword oo 45
 nocross partword ou 1256
@@ -2007,6 +2005,52 @@ noback pass2 %marker[@56f] @0-56
 noback pass2 @56f @56
 
 # Remove left-over markers
+
+# ally
+noback pass2 @6-13456-0 @6-13456
+
+# ance
+noback pass2 @46-15-0 @46-15
+
+# ances
+noback pass2 @46-1356-0 @46-1356
+
+# ation
+noback pass2 @6-1345-0 @6-1345
+
+# bly
+noback pass2 @46-13456-0 @46-13456
+
+# ence
+noback pass2 @56-15-0 @56-15
+
+# ences
+noback pass2 @56-1356-0 @56-1356
+
+# less
+noback pass2 @46-234-0 @46-234
+
+# ment
+noback pass2 @56-2345-0 @56-2345
+
+# ness
+noback pass2 @56-234-0 @56-234
+
+# ong
+noback pass2 @56-1245-0 @56-1245
+
+# ound
+noback pass2 @46-145-0 @46-145
+
+# ount
+noback pass2 @46-2345-0 @46-2345
+
+# sion
+noback pass2 @46-1345-0 @46-1345
+
+# tion
+noback pass2 @56-1345-0 @56-1345
+
 noback pass3 %marker ?
 
 include en-g3-patterns.dic
