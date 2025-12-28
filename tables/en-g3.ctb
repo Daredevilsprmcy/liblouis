@@ -860,7 +860,8 @@ always instead 35-34-2-145
 joinword interest 249-456-35-1249
 word interest 249-456-35-1249
 nocross always interest 349-456-35
-midendword ite 356
+endword ite 356
+midendword ited 24-2345-1246
 
 # J
 joinword jesus 249-5-245-1249
@@ -1032,7 +1033,8 @@ joinword ought 249-5-1256-1249
 word ought 249-5-1256-1249
 nocross always ought 349-5-1256
 joinword our 249-456-1256-1249
-midendword ote 356
+endword ote 356
+midendword oted 135-2345-1246
 word our 249-456-1256-1249
 joinword outside 249-4-1256-1249
 word outside 249-4-1256-1249
@@ -1232,7 +1234,8 @@ word up 249-4-136-1249
 joinword upon 249-45-136-1249
 word upon 249-45-136-1249
 nocross always upon 249-45-136
-midendword ute 356
+endword ute 356
+midendword uted 136-2345-1246
 
 # W
 joinword want 249-4-12456-1249
@@ -1409,7 +1412,7 @@ nocross always frequent 124-1235-12345
 nocross midendword full 124-456
 word furthermore 124-136-1235-2346-1235-134
 nocross always general 1245-26
-nocross always get 1245-2345
+nocross nocross always get 1245-2345
 nocross always getting 1245-356-346
 midendword girl 1245-1235-123
 nocross always glory 1245-123
@@ -1507,7 +1510,7 @@ nocross always present 4-1234-234
 nocross always prevent 4-1234-1236
 nocross always probable 456-1234-3456
 nocross always probably 456-1234-46-13456
-nocross always put 1234-2345
+nocross nocross always put 1234-2345
 nocross always putting 1234-356-346
 nocross always receive 1235-14-1236
 nocross always receiving 1235-14-1236-1245
@@ -1706,7 +1709,8 @@ nocross midword ero 12456
 nocross midword eru 12456
 nocross endword es 1356
 nocross endword est 34
-midendword ete 356
+endword ete 356
+midendword eted 15-2345-1246
 nocross midword eu 5
 nocross begword ex 2349-1346
 nocross begmidword preex 2349-4-1234-1346
@@ -1943,7 +1947,8 @@ nocross midword su 234
 # T
 nocross begmidword ta 2345
 nocross midword te 2345
-nocross endword te 356
+endword te 356
+midendword ted 2345-1246
 nocross midendword tely 356-45
 nocross midendword teness 356-56-234
 nocross midendword tement 356-56-2345
