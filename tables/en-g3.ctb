@@ -1569,6 +1569,7 @@ nocross always trust 2345-1235-34
 nocross always truth 2345-1235-1456
 nocross always turn 2345-1235-1345
 endword tunes 2345-1345-1356 # Resolves conflicts when tunes appeared as tuns.
+endword tures 2345-1235-1356
 word undo 346-145
 nocross always unjust 346-245
 nocross always unless 346-46-234
