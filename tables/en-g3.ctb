@@ -2027,7 +2027,7 @@ nocross midword co 14
 nocross begmidword com 2349-36
 nocross begmidword con 1349-25
 nocross midword cu 14
-nocross endword cy 36
+endword cy 36
 
 # D
 nocross begmidword da 145
