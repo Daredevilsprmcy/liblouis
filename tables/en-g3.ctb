@@ -1771,6 +1771,8 @@ always coursing 349-4-14-1245
 nocross always deceive 145-14-1236
 nocross always deceiving 145-14-1236-1245
 nocross always difficult 145-235-14
+word episode 15-1234-24-234-135-245
+word episodes 15-1234-24-234-135-145-1356
 word either 15-24
 nocross always enclosing 349-456-26-1245
 nocross always especial 349-15-126
@@ -1939,6 +1941,8 @@ nocross always took 2345-13
 nocross always trust 2345-1235-34
 nocross always truth 2345-1235-1456
 nocross always turn 2345-1235-1345
+endword top 2345-1234
+endword tops 2345-1234-234
 endword tunes 2345-1345-1356 # Resolves conflicts when tunes appeared as tuns.
 endword tures 2345-1235-1356
 word undo 346-145
