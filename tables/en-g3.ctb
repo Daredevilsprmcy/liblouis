@@ -6,6 +6,7 @@
 # Copyright (C) 2004 Computers to Help People, Inc., www.chpi.org
 # Copyright (C) 2025-2026, Dmitriy Lazarev <dmitriy.braille.numeric674@aleeas.com>
 
+
 #  This file is part of liblouis.
 #
 #  liblouis is free software: you can redistribute it and/or modify it
@@ -1717,7 +1718,7 @@ begmidword wrot 2456-1235-135-2345
 joinword year 249-45-13456-1249
 word year 249-45-13456-1249
 nocross always year 349-45-13456
-word yes 1346-15-234 # This word should not contract.
+word yes 13456-15-234 # This word should not contract.
 joinword yet 249-4-13456-1249
 word yet 249-4-13456-1249
 joinword young 249-5-13456-1249
